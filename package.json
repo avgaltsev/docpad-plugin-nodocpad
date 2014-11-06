@@ -1,0 +1,12 @@
+{
+	"name": "docpad-plugin-nodocpad",
+	"version": "2.0.0",
+	"keywords": [
+		"docpad",
+		"docpad-plugin"
+	],
+	"peerDependencies": {
+		"docpad": "6"
+	},
+	"main": "./src/nodocpad.plugin.js"
+}
